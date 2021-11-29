@@ -1,3 +1,3 @@
 # project-2
 
-https://prooject2.z13.web.core.windows.net/
+https://newproject2.blob.core.windows.net/$web/A_layout.html
